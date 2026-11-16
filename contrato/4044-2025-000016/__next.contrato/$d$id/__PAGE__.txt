@@ -1,0 +1,66 @@
+1:"$Sreact.fragment"
+d:X
+12:X
+12:C
+0:{"buildId":"hWAkrpc1qVr0ZTSZ_Tn28","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"space-y-6","children":[["$","header",null,{"className":"space-y-2","children":[["$","h1",null,{"className":"text-4xl","children":["Contrato ",["$","span",null,{"className":"font-mono","children":"2025-000016"}]]}],["$","p",null,{"children":["$","a",null,{"href":"/contratista/harry-auto-kool-inc/","children":"HARRY AUTO KOOL, INC"}]}],["$","p",null,{"className":"text-sm text-apagado","children":["COMPRA DE MATERIALES, SUMINISTROS Y EFECTOS"," · ","ASFALTO"]}]]}],["$","section",null,{"className":"space-y-2","children":[["$","h2",null,{"className":"text-2xl","children":"Monto"}],["$","p",null,{"className":"text-lg","children":["$","span",null,{"className":"flex flex-wrap items-center gap-1","children":[["$","span",null,{"className":"inline-block whitespace-nowrap rounded-full border px-2 py-0.5 text-xs font-medium border-ocre/40 bg-oro/15 text-ocre","children":"Monto no disponible"}],["$","span",null,{"className":"text-sm text-apagado","children":["el Registro de Contratos reporta enmiendas que no cuadran"," —"," ",["$","a",null,{"href":"https://consultacontratos.ocpr.gov.pr/contract/details?contractid=5523392","rel":"noreferrer","children":"ver la entrada en el Registro de Contratos"}]]}]]}]}],["$","dl",null,{"className":"grid grid-cols-2 gap-3 text-sm","children":[["$","div",null,{"children":[["$","dt",null,{"className":"text-apagado","children":"Monto base"}],["$","dd",null,{"className":"font-mono tabular-nums","children":"$$44,000.00"}]]}],["$","div",null,{"children":[["$","dt",null,{"className":"text-apagado","children":"Fondo"}],["$","dd",null,{"children":"Combinados"}]]}],["$","div",null,{"children":[["$","dt",null,{"className":"text-apagado","children":"Otorgado"}],["$","dd",null,{"children":"1 de julio de 2024"}]]}],["$","div",null,{"children":[["$","dt",null,{"className":"text-apagado","children":"Vigente hasta"}],["$","dd",null,{"children":"30 de junio de 2026"}]]}]]}]]}],["$","section",null,{"className":"space-y-2","children":[["$","h2",null,{"className":"text-2xl","children":"Enmiendas"}],["$","p",null,{"className":"text-sm text-apagado","children":"Cada enmienda es la diferencia que el Registro reporta, no el total nuevo."}],["$","div",null,{"role":"region","aria-label":"Enmiendas del contrato","tabIndex":0,"className":"ancha desliza overflow-x-auto scroll-px-4 scroll-py-2 rounded border border-linea","style":{"--desliza-fondo":"var(--ground)"},"children":["$","table",null,{"className":"w-full text-sm","children":[["$","thead",null,{"children":["$","tr",null,{"className":"border-b border-linea text-left","children":[["$","th",null,{"scope":"col","className":"p-2","children":"Letra"}],["$","th",null,{"scope":"col","className":"p-2","children":"Fecha"}],["$","th",null,{"scope":"col","className":"p-2","children":"Diferencia"}],["$","th",null,{"scope":"col","className":"p-2","children":"Vigente hasta"}]]}]}],["$","tbody",null,{"children":[["$","tr","A",{"className":"border-b border-linea","children":[["$","td",null,{"className":"p-2 font-mono","children":"A"}],["$","td",null,{"className":"p-2 whitespace-nowrap","children":"17 de julio de 2024"}],["$","td",null,{"className":"p-2 whitespace-nowrap","children":["$","span",null,{"className":"font-mono tabular-nums","children":"$$143,084.02"}]}],["$","td",null,{"className":"p-2 whitespace-nowrap","children":"30 de junio de 2025"}]]}],["$","tr","B",{"className":"border-b border-linea","children":[["$","td",null,{"className":"p-2 font-mono","children":"B"}],["$","td",null,{"className":"p-2 whitespace-nowrap","children":"30 de julio de 2024"}],["$","td",null,{"className":"p-2 whitespace-nowrap","children":["$","span",null,{"className":"font-mono tabular-nums","children":"$$44,000.00"}]}],["$","td",null,{"className":"p-2 whitespace-nowrap","children":"30 de junio de 2025"}]]}],["$","tr","C",{"className":"border-b border-linea","children":[["$","td",null,{"className":"p-2 font-mono","children":"C"}],["$","td",null,{"className":"p-2 whitespace-nowrap","children":"25 de septiembre de 2024"}],["$","td",null,{"className":"p-2 whitespace-nowrap","children":["$","span",null,{"className":"font-mono tabular-nums","children":"$$939,998.55"}]}],["$","td",null,{"className":"p-2 whitespace-nowrap","children":"30 de junio de 2025"}]]}],["$","tr","D",{"className":"border-b border-linea","children":[["$","td",null,{"className":"p-2 font-mono","children":"D"}],["$","td",null,{"className":"p-2 whitespace-nowrap","children":"4 de junio de 2025"}],"$L2","$L3"]}],"$L4","$L5","$L6"]}]]}]}]]}],"$L7","$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":"$@c","staleTime":"$d","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$d","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$d","varyParams":"$12"},{"rsc":"$L13","isPartial":"$@14","staleTime":"$d","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[71112,["/_next/static/chunks/2jkenc3bsu0hh.js","/_next/static/chunks/0_30jw-pl1iwu.js"],"Carta"]
+19:I[75049,["/_next/static/chunks/2jkenc3bsu0hh.js"],"OutletBoundary"]
+1a:"$Sreact.suspense"
+1c:I[75049,["/_next/static/chunks/2jkenc3bsu0hh.js"],"ViewportBoundary"]
+1d:I[75049,["/_next/static/chunks/2jkenc3bsu0hh.js"],"MetadataBoundary"]
+1e:I[34035,["/_next/static/chunks/2jkenc3bsu0hh.js"],"IconMark"]
+1f:I[36064,["/_next/static/chunks/2jkenc3bsu0hh.js"],"default"]
+20:I[81497,["/_next/static/chunks/2jkenc3bsu0hh.js"],"default"]
+2:["$","td",null,{"className":"p-2 whitespace-nowrap","children":["$","span",null,{"className":"font-mono tabular-nums","children":"$$85,000.00"}]}]
+3:["$","td",null,{"className":"p-2 whitespace-nowrap","children":"30 de junio de 2025"}]
+4:["$","tr","E",{"className":"border-b border-linea","children":[["$","td",null,{"className":"p-2 font-mono","children":"E"}],["$","td",null,{"className":"p-2 whitespace-nowrap","children":"26 de junio de 2025"}],["$","td",null,{"className":"p-2 whitespace-nowrap","children":["$","span",null,{"className":"font-mono tabular-nums","children":"−$1,475,083.38"}]}],["$","td",null,{"className":"p-2 whitespace-nowrap","children":"30 de junio de 2025"}]]}]
+5:["$","tr","F",{"className":"border-b border-linea","children":[["$","td",null,{"className":"p-2 font-mono","children":"F"}],["$","td",null,{"className":"p-2 whitespace-nowrap","children":"30 de junio de 2025"}],["$","td",null,{"className":"p-2 whitespace-nowrap","children":["$","span",null,{"className":"text-apagado","children":"Sin cambio"}]}],["$","td",null,{"className":"p-2 whitespace-nowrap","children":"31 de agosto de 2025"}]]}]
+6:["$","tr","G",{"className":"border-b border-linea","children":[["$","td",null,{"className":"p-2 font-mono","children":"G"}],["$","td",null,{"className":"p-2 whitespace-nowrap","children":"28 de agosto de 2025"}],["$","td",null,{"className":"p-2 whitespace-nowrap","children":["$","span",null,{"className":"text-apagado","children":"Sin cambio"}]}],["$","td",null,{"className":"p-2 whitespace-nowrap","children":"30 de junio de 2026"}]]}]
+7:["$","section",null,{"className":"space-y-2","children":[["$","h2",null,{"className":"text-2xl","children":"Obra"}],["$","p",null,{"className":"text-apagado","children":"El portal leyó el documento de este contrato y no menciona ningún número de PW, que es lo único que permite enlazarlo con una obra. Eso no quiere decir que no corresponda a ninguna."}],false]}]
+18:T625,«Fecha»
+
+A: Gobierno Municipal de Las Piedras
+
+De: «Nombre completo», residente de Las Piedras
+«Dirección postal» · «Correo electrónico» · «Teléfono»
+
+Asunto: Solicitud de acceso a información pública — Contrato 2025-000016
+
+Estimados señores:
+
+Al amparo de la Ley 141-2019, Ley de Transparencia y Procedimiento Expedito para el Acceso a la Información Pública, y del derecho constitucional de acceso a la información pública, solicito respetuosamente copia de los siguientes documentos relacionados con el contrato número 2025-000016, otorgado a HARRY AUTO KOOL, INC el 1 de julio de 2024, por concepto de ASFALTO:
+
+1. el contrato completo, con todos sus anejos;
+2. todas sus enmiendas y la justificación escrita de cada una;
+3. el expediente de subasta o la justificación de la excepción, si la hubo;
+4. los pagos realizados hasta la fecha, con sus comprobantes;
+5. la evidencia de los trabajos realizados o los bienes entregados;
+
+Solicito los documentos en formato digital, si están disponibles, al correo electrónico indicado arriba.
+
+La Ley 141-2019 dispone que la solicitud se conteste dentro de diez (10) días laborables, prorrogables por otros diez mediante notificación escrita, y que toda denegatoria se haga por escrito y exponga sus fundamentos en derecho.
+
+Quedo a su disposición para aclarar cualquier punto.
+
+Cordialmente,
+
+«Nombre completo»
+
+———
+
+Quien firma esta carta la envía en su propio nombre como residente y no representa a ninguna organización ni al portal Piedra por Piedra, que solo facilitó el texto.8:["$","$L17",null,{"asunto":{"titulo":"Contrato 2025-000016","parrafo":"el contrato número 2025-000016, otorgado a HARRY AUTO KOOL, INC el 1 de julio de 2024, por concepto de ASFALTO","piezas":["el contrato completo, con todos sus anejos","todas sus enmiendas y la justificación escrita de cada una","el expediente de subasta o la justificación de la excepción, si la hubo","los pagos realizados hasta la fecha, con sus comprobantes","la evidencia de los trabajos realizados o los bienes entregados"]},"cuerpo":"$18"}]
+9:["$","section",null,{"className":"text-sm","children":[["$","h2",null,{"className":"font-semibold","children":"Fuentes"}],["$","ul",null,{"className":"mt-1 space-y-1","children":[["$","li","0:https://consultacontratos.ocpr.gov.pr/contract/details?contractid=5523392",{"children":["$","a",null,{"href":"https://consultacontratos.ocpr.gov.pr/contract/details?contractid=5523392","rel":"noreferrer","children":"Registro de Contratos — 2025-000016"}]}]]}]]}]
+a:["$","script","script-0",{"src":"/_next/static/chunks/0_30jw-pl1iwu.js","async":true}]
+b:["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
+e:["$","$1","h",{"children":[null,["$","$L1c",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1d",null,{"children":["$","$1a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Contrato 2025-000016 · Piedra por Piedra"}],["$","meta","1",{"name":"description","content":"ASFALTO"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"alternate","type":"application/rss+xml","href":"https://piedraporpiedra.github.io/feed.xml","title":"Piedra por Piedra — Las Piedras"}],["$","link","4",{"rel":"alternate","type":"application/rss+xml","href":"https://piedraporpiedra.github.io/feed-region.xml","title":"Piedra por Piedra — la región"}],["$","link","5",{"rel":"icon","href":"/favicon.ico","sizes":"16x16 32x32"}],["$","link","6",{"rel":"icon","href":"/icono.svg","type":"image/svg+xml"}],["$","link","7",{"rel":"apple-touch-icon","href":"/icono-180.png","sizes":"180x180"}],["$","$L1e","8",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+13:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+16:true
+1b:null
+d:300
+d:C
+15:0
+f:"$undefined"
+11:"$undefined"
+14:"$undefined"
+c:"$undefined"

@@ -1,0 +1,59 @@
+1:"$Sreact.fragment"
+8:X
+d:X
+d:C
+0:{"buildId":"hWAkrpc1qVr0ZTSZ_Tn28","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"space-y-6","children":[["$","header",null,{"className":"space-y-2","children":[["$","h1",null,{"className":"text-4xl","children":"LPI-024 Road Repair"}],["$","span",null,{"className":"flex flex-wrap gap-1","children":[["$","span",null,{"className":"inline-block whitespace-nowrap rounded-full border px-2 py-0.5 text-xs font-medium border-verde/30 bg-verde/10 text-verde","children":"Terminado"}],false,false,["$","span",null,{"className":"inline-block whitespace-nowrap rounded-full border px-2 py-0.5 text-xs font-medium border-ocre/40 bg-oro/15 text-ocre","children":"Ubicación por confirmar"}],false,false]}],["$","p",null,{"className":"font-mono text-sm text-apagado","children":["fema-4017-1280"," · PW 1280"," · DR-4017"]}],"$undefined",["$","p",null,{"className":"text-sm text-apagado","children":["Nombre en la fuente oficial: ","(PW# 1280) LPI-024 Road Repair"]}],false]}],["$","section",null,{"className":"space-y-2","children":[["$","h2",null,{"className":"text-2xl","children":"Etapa"}],["$","div",null,{"className":"@container","children":["$","ol",null,{"className":"grid grid-cols-3 gap-x-1 gap-y-2 @sm:grid-cols-[repeat(6,minmax(max-content,1fr))]","aria-label":"Etapa del proyecto","children":[["$","li","anunciado",{"data-estado":"alcanzada","className":"border-t-4 pt-1 text-xs whitespace-nowrap border-verde text-tinta ","children":"Anunciado"}],["$","li","aprobado",{"data-estado":"alcanzada","className":"border-t-4 pt-1 text-xs whitespace-nowrap border-verde text-tinta ","children":"Aprobado"}],["$","li","diseno",{"data-estado":"alcanzada","className":"border-t-4 pt-1 text-xs whitespace-nowrap border-azul text-tinta ","children":"Diseño"}],["$","li","subasta",{"data-estado":"alcanzada","className":"border-t-4 pt-1 text-xs whitespace-nowrap border-verde text-tinta ","children":"Subasta"}],["$","li","construccion",{"data-estado":"alcanzada","className":"border-t-4 pt-1 text-xs whitespace-nowrap border-verde text-tinta ","children":"Construcción"}],["$","li","terminado",{"aria-current":"step","data-estado":"actual","className":"border-t-4 pt-1 text-xs whitespace-nowrap border-verde text-tinta font-semibold","children":"Terminado"}]]}]}],["$","p",null,{"className":"text-sm text-apagado","children":"La etapa sale de la propia fuente federal."}]]}],["$","section",null,{"className":"space-y-2","children":[["$","h2",null,{"className":"text-2xl","children":"Dinero"}],["$","dl",null,{"className":"grid grid-cols-2 gap-3 text-sm","children":[["$","div",null,{"children":[["$","dt",null,{"className":"text-apagado","children":"Fondos federales"}],["$","dd",null,{"className":"font-mono text-lg tabular-nums","children":"$$3,343.13"}]]}],["$","div",null,{"children":[["$","dt",null,{"className":"text-apagado","children":"Costo total estimado"}],["$","dd",null,{"className":"font-mono text-lg tabular-nums","children":"$$4,457.50"}]]}],["$","div",null,{"children":[["$","dt",null,{"className":"text-apagado","children":"Primera fecha conocida"}],["$","dd",null,{"children":"8 de febrero de 2012"}]]}],["$","div",null,{"children":[["$","dt",null,{"className":"text-apagado","children":"Última obligación"}],["$","dd",null,{"children":"8 de febrero de 2012"}]]}]]}]]}],["$","section",null,{"className":"space-y-2","children":[["$","h2",null,{"className":"text-2xl","children":"Dónde"}],["$","p",null,{"children":["Todavía no sabemos en qué barrio está. La fuente no lo dice y el portal no lo adivina; queda en la lista de"," ",["$","a",null,{"href":"/proyectos/?barrio=sin-ubicacion&origen=municipal","children":"ubicación por confirmar"}],"."]}]]}],"$undefined",["$","section",null,{"className":"space-y-2","children":[["$","h2",null,{"className":"text-2xl","children":"Contratos"}],["$","p",null,{"className":"text-apagado","children":["Ninguno de los documentos que el portal ha leído menciona el número de PW de esta obra — y ha leído"," ","303"," de los ","404"," documentos del Registro. Eso no quiere decir que no existan contratos de esta obra: quiere decir que el portal no ha podido enlazarlos."]}]]}],["$","section",null,{"className":"space-y-2","children":[["$","h2",null,{"className":"text-2xl","children":"Qué ha pasado"}],"$L2"]}],"$L3","$L4"]}],["$L5"],"$L6"]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":"$L9","isPartial":"$@a","staleTime":"$8","varyParams":null},{"rsc":"$Lb","isPartial":"$@c","staleTime":"$8","varyParams":"$d"},{"rsc":"$Le","isPartial":"$@f","staleTime":"$8","varyParams":"$d"}],"isUpgradeableISRFallback":false,"a":"$@10","rootVaryParams":null,"needsRuntimeRequest":"$@11"}
+12:I[71112,["/_next/static/chunks/2jkenc3bsu0hh.js","/_next/static/chunks/2v9oikmci1jbf.js"],"Carta"]
+14:I[75049,["/_next/static/chunks/2jkenc3bsu0hh.js"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:I[75049,["/_next/static/chunks/2jkenc3bsu0hh.js"],"ViewportBoundary"]
+18:I[75049,["/_next/static/chunks/2jkenc3bsu0hh.js"],"MetadataBoundary"]
+19:I[34035,["/_next/static/chunks/2jkenc3bsu0hh.js"],"IconMark"]
+1a:I[36064,["/_next/static/chunks/2jkenc3bsu0hh.js"],"default"]
+1b:I[81497,["/_next/static/chunks/2jkenc3bsu0hh.js"],"default"]
+2:["$","ul",null,{"className":"divide-y divide-linea","children":[["$","li","aadb2a4133156bae",{"className":"py-3","children":[["$","p",null,{"className":"flex flex-wrap items-center gap-2 text-xs text-apagado","children":[["$","time",null,{"dateTime":"2012-02-08","children":"8 de febrero de 2012"}],["$","span",null,{"className":"inline-block whitespace-nowrap rounded-full border px-2 py-0.5 text-xs font-medium border-linea bg-surface text-tinta","children":"Proyecto nuevo"}],["$","span",null,{"className":"font-mono tabular-nums","children":"$$3.3K"}]]}],["$","p",null,{"className":"mt-1","children":"FEMA aprobó $3.3K para LPI-024 Road Repair"}],"$undefined","$undefined"]}]]}]
+13:T595,«Fecha»
+
+A: Gobierno Municipal de Las Piedras
+
+De: «Nombre completo», residente de Las Piedras
+«Dirección postal» · «Correo electrónico» · «Teléfono»
+
+Asunto: Solicitud de acceso a información pública — Obra: LPI-024 Road Repair
+
+Estimados señores:
+
+Al amparo de la Ley 141-2019, Ley de Transparencia y Procedimiento Expedito para el Acceso a la Información Pública, y del derecho constitucional de acceso a la información pública, solicito respetuosamente copia de los siguientes documentos relacionados con la obra identificada como «LPI-024 Road Repair» (PW 1280, DR-4017):
+
+1. el expediente de subasta, incluyendo el aviso, las propuestas recibidas y el acta de adjudicación;
+2. las certificaciones de pago emitidas y su fecha;
+3. los informes de progreso o de terminación de la obra;
+
+Solicito los documentos en formato digital, si están disponibles, al correo electrónico indicado arriba.
+
+La Ley 141-2019 dispone que la solicitud se conteste dentro de diez (10) días laborables, prorrogables por otros diez mediante notificación escrita, y que toda denegatoria se haga por escrito y exponga sus fundamentos en derecho.
+
+Quedo a su disposición para aclarar cualquier punto.
+
+Cordialmente,
+
+«Nombre completo»
+
+———
+
+Quien firma esta carta la envía en su propio nombre como residente y no representa a ninguna organización ni al portal Piedra por Piedra, que solo facilitó el texto.3:["$","$L12",null,{"asunto":{"titulo":"Obra: LPI-024 Road Repair","parrafo":"la obra identificada como «LPI-024 Road Repair» (PW 1280, DR-4017)","piezas":["el expediente de subasta, incluyendo el aviso, las propuestas recibidas y el acta de adjudicación","las certificaciones de pago emitidas y su fecha","los informes de progreso o de terminación de la obra"]},"cuerpo":"$13"}]
+4:["$","section",null,{"className":"text-sm","children":[["$","h2",null,{"className":"font-semibold","children":"Fuentes"}],["$","ul",null,{"className":"mt-1 space-y-1","children":[["$","li","0:https://www.fema.gov/api/open/v2/PublicAssistanceFundedProjectsDetails?$filter=disasterNumber%20eq%204017%20and%20pwNumber%20eq%201280",{"children":["$","a",null,{"href":"https://www.fema.gov/api/open/v2/PublicAssistanceFundedProjectsDetails?$filter=disasterNumber%20eq%204017%20and%20pwNumber%20eq%201280","rel":"noreferrer","children":"OpenFEMA — Asistencia Pública"}]}]]}]]}]
+5:["$","script","script-0",{"src":"/_next/static/chunks/2v9oikmci1jbf.js","async":true}]
+6:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
+9:["$","$1","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L18",null,{"children":["$","$15",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"LPI-024 Road Repair · Piedra por Piedra"}],["$","meta","1",{"name":"description","content":"(PW# 1280) LPI-024 Road Repair"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"alternate","type":"application/rss+xml","href":"https://piedraporpiedra.github.io/feed.xml","title":"Piedra por Piedra — Las Piedras"}],["$","link","4",{"rel":"alternate","type":"application/rss+xml","href":"https://piedraporpiedra.github.io/feed-region.xml","title":"Piedra por Piedra — la región"}],["$","link","5",{"rel":"icon","href":"/favicon.ico","sizes":"16x16 32x32"}],["$","link","6",{"rel":"icon","href":"/icono.svg","type":"image/svg+xml"}],["$","link","7",{"rel":"apple-touch-icon","href":"/icono-180.png","sizes":"180x180"}],["$","$L19","8",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+b:["$","$1","c",{"children":[null,["$","$L1a",null,{"parallelRouterKey":"children","template":["$","$L1b",null,{}]}]]}]
+e:["$","$1","c",{"children":[null,["$","$L1a",null,{"parallelRouterKey":"children","template":["$","$L1b",null,{}]}]]}]
+11:true
+16:null
+8:300
+8:C
+10:0
+a:"$undefined"
+c:"$undefined"
+f:"$undefined"
+7:"$undefined"

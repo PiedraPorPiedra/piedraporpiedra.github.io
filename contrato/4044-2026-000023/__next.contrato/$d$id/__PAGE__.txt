@@ -1,0 +1,60 @@
+1:"$Sreact.fragment"
+7:X
+c:X
+c:C
+0:{"buildId":"hWAkrpc1qVr0ZTSZ_Tn28","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"space-y-6","children":[["$","header",null,{"className":"space-y-2","children":[["$","h1",null,{"className":"text-4xl","children":["Contrato ",["$","span",null,{"className":"font-mono","children":"2026-000023"}]]}],["$","p",null,{"children":["$","a",null,{"href":"/contratista/ec-waste-llc/","children":"EC WASTE, LLC"}]}],["$","p",null,{"className":"text-sm text-apagado","children":["RECOGIDO DE DESPERDICIOS Y RECICLAJE"," · ","DESPERDICIOS SÓLIDOS"]}]]}],["$","section",null,{"className":"space-y-2","children":[["$","h2",null,{"className":"text-2xl","children":"Monto"}],["$","p",null,{"className":"text-lg","children":["$","span",null,{"className":"font-mono tabular-nums","children":"$$669,917.05"}]}],["$","dl",null,{"className":"grid grid-cols-2 gap-3 text-sm","children":[["$","div",null,{"children":[["$","dt",null,{"className":"text-apagado","children":"Monto base"}],["$","dd",null,{"className":"font-mono tabular-nums","children":"$$215,832.00"}]]}],["$","div",null,{"children":[["$","dt",null,{"className":"text-apagado","children":"Fondo"}],["$","dd",null,{"children":"Estatal"}]]}],["$","div",null,{"children":[["$","dt",null,{"className":"text-apagado","children":"Otorgado"}],["$","dd",null,{"children":"1 de julio de 2025"}]]}],["$","div",null,{"children":[["$","dt",null,{"className":"text-apagado","children":"Vigente hasta"}],["$","dd",null,{"children":"30 de junio de 2026"}]]}]]}]]}],["$","section",null,{"className":"space-y-2","children":[["$","h2",null,{"className":"text-2xl","children":"Enmiendas"}],["$","p",null,{"className":"text-sm text-apagado","children":"Cada enmienda es la diferencia que el Registro reporta, no el total nuevo."}],["$","div",null,{"role":"region","aria-label":"Enmiendas del contrato","tabIndex":0,"className":"ancha desliza overflow-x-auto scroll-px-4 scroll-py-2 rounded border border-linea","style":{"--desliza-fondo":"var(--ground)"},"children":["$","table",null,{"className":"w-full text-sm","children":[["$","thead",null,{"children":["$","tr",null,{"className":"border-b border-linea text-left","children":[["$","th",null,{"scope":"col","className":"p-2","children":"Letra"}],["$","th",null,{"scope":"col","className":"p-2","children":"Fecha"}],["$","th",null,{"scope":"col","className":"p-2","children":"Diferencia"}],["$","th",null,{"scope":"col","className":"p-2","children":"Vigente hasta"}]]}]}],["$","tbody",null,{"children":[["$","tr","A",{"className":"border-b border-linea","children":[["$","td",null,{"className":"p-2 font-mono","children":"A"}],["$","td",null,{"className":"p-2 whitespace-nowrap","children":"5 de agosto de 2025"}],["$","td",null,{"className":"p-2 whitespace-nowrap","children":["$","span",null,{"className":"font-mono tabular-nums","children":"$$50,000.00"}]}],["$","td",null,{"className":"p-2 whitespace-nowrap","children":"31 de octubre de 2025"}]]}],["$","tr","B",{"className":"border-b border-linea","children":[["$","td",null,{"className":"p-2 font-mono","children":"B"}],["$","td",null,{"className":"p-2 whitespace-nowrap","children":"30 de octubre de 2025"}],["$","td",null,{"className":"p-2 whitespace-nowrap","children":["$","span",null,{"className":"font-mono tabular-nums","children":"$$135,000.00"}]}],["$","td",null,{"className":"p-2 whitespace-nowrap","children":"31 de enero de 2026"}]]}],["$","tr","C",{"className":"border-b border-linea","children":[["$","td",null,{"className":"p-2 font-mono","children":"C"}],["$","td",null,{"className":"p-2 whitespace-nowrap","children":"23 de enero de 2026"}],["$","td",null,{"className":"p-2 whitespace-nowrap","children":["$","span",null,{"className":"font-mono tabular-nums","children":"$$150,000.00"}]}],["$","td",null,{"className":"p-2 whitespace-nowrap","children":"30 de abril de 2026"}]]}],["$","tr","D",{"className":"border-b border-linea","children":[["$","td",null,{"className":"p-2 font-mono","children":"D"}],["$","td",null,{"className":"p-2 whitespace-nowrap","children":"29 de abril de 2026"}],["$","td",null,{"className":"p-2 whitespace-nowrap","children":["$","span",null,{"className":"font-mono tabular-nums","children":"$$119,085.05"}]}],["$","td",null,{"className":"p-2 whitespace-nowrap","children":"30 de junio de 2026"}]]}]]}]]}]}]]}],["$","section",null,{"className":"space-y-2","children":[["$","h2",null,{"className":"text-2xl","children":"Obra"}],["$","p",null,{"className":"text-apagado","children":"El portal leyó el documento de este contrato y no menciona ningún número de PW, que es lo único que permite enlazarlo con una obra. Eso no quiere decir que no corresponda a ninguna."}],false]}],"$L2","$L3"]}],["$L4"],"$L5"]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":"$L8","isPartial":"$@9","staleTime":"$7","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$7","varyParams":"$c"},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$7","varyParams":"$c"}],"isUpgradeableISRFallback":false,"a":"$@f","rootVaryParams":null,"needsRuntimeRequest":"$@10"}
+11:I[71112,["/_next/static/chunks/2jkenc3bsu0hh.js","/_next/static/chunks/0_30jw-pl1iwu.js"],"Carta"]
+13:I[75049,["/_next/static/chunks/2jkenc3bsu0hh.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+16:I[75049,["/_next/static/chunks/2jkenc3bsu0hh.js"],"ViewportBoundary"]
+17:I[75049,["/_next/static/chunks/2jkenc3bsu0hh.js"],"MetadataBoundary"]
+18:I[34035,["/_next/static/chunks/2jkenc3bsu0hh.js"],"IconMark"]
+19:I[36064,["/_next/static/chunks/2jkenc3bsu0hh.js"],"default"]
+1a:I[81497,["/_next/static/chunks/2jkenc3bsu0hh.js"],"default"]
+12:T64a,«Fecha»
+
+A: Gobierno Municipal de Las Piedras
+
+De: «Nombre completo», residente de Las Piedras
+«Dirección postal» · «Correo electrónico» · «Teléfono»
+
+Asunto: Solicitud de acceso a información pública — Contrato 2026-000023
+
+Estimados señores:
+
+Al amparo de la Ley 141-2019, Ley de Transparencia y Procedimiento Expedito para el Acceso a la Información Pública, y del derecho constitucional de acceso a la información pública, solicito respetuosamente copia de los siguientes documentos relacionados con el contrato número 2026-000023, otorgado a EC WASTE, LLC el 1 de julio de 2025, por concepto de DESPERDICIOS SÓLIDOS y por un valor de $669,917.05:
+
+1. el contrato completo, con todos sus anejos;
+2. todas sus enmiendas y la justificación escrita de cada una;
+3. el expediente de subasta o la justificación de la excepción, si la hubo;
+4. los pagos realizados hasta la fecha, con sus comprobantes;
+5. la evidencia de los trabajos realizados o los bienes entregados;
+
+Solicito los documentos en formato digital, si están disponibles, al correo electrónico indicado arriba.
+
+La Ley 141-2019 dispone que la solicitud se conteste dentro de diez (10) días laborables, prorrogables por otros diez mediante notificación escrita, y que toda denegatoria se haga por escrito y exponga sus fundamentos en derecho.
+
+Quedo a su disposición para aclarar cualquier punto.
+
+Cordialmente,
+
+«Nombre completo»
+
+———
+
+Quien firma esta carta la envía en su propio nombre como residente y no representa a ninguna organización ni al portal Piedra por Piedra, que solo facilitó el texto.2:["$","$L11",null,{"asunto":{"titulo":"Contrato 2026-000023","parrafo":"el contrato número 2026-000023, otorgado a EC WASTE, LLC el 1 de julio de 2025, por concepto de DESPERDICIOS SÓLIDOS y por un valor de $669,917.05","piezas":["el contrato completo, con todos sus anejos","todas sus enmiendas y la justificación escrita de cada una","el expediente de subasta o la justificación de la excepción, si la hubo","los pagos realizados hasta la fecha, con sus comprobantes","la evidencia de los trabajos realizados o los bienes entregados"]},"cuerpo":"$12"}]
+3:["$","section",null,{"className":"text-sm","children":[["$","h2",null,{"className":"font-semibold","children":"Fuentes"}],["$","ul",null,{"className":"mt-1 space-y-1","children":[["$","li","0:https://consultacontratos.ocpr.gov.pr/contract/details?contractid=5639009",{"children":["$","a",null,{"href":"https://consultacontratos.ocpr.gov.pr/contract/details?contractid=5639009","rel":"noreferrer","children":"Registro de Contratos — 2026-000023"}]}]]}]]}]
+4:["$","script","script-0",{"src":"/_next/static/chunks/0_30jw-pl1iwu.js","async":true}]
+5:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+8:["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Contrato 2026-000023 · Piedra por Piedra"}],["$","meta","1",{"name":"description","content":"DESPERDICIOS SÓLIDOS"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"alternate","type":"application/rss+xml","href":"https://piedraporpiedra.github.io/feed.xml","title":"Piedra por Piedra — Las Piedras"}],["$","link","4",{"rel":"alternate","type":"application/rss+xml","href":"https://piedraporpiedra.github.io/feed-region.xml","title":"Piedra por Piedra — la región"}],["$","link","5",{"rel":"icon","href":"/favicon.ico","sizes":"16x16 32x32"}],["$","link","6",{"rel":"icon","href":"/icono.svg","type":"image/svg+xml"}],["$","link","7",{"rel":"apple-touch-icon","href":"/icono-180.png","sizes":"180x180"}],["$","$L18","8",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+a:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
+d:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
+10:true
+15:null
+7:300
+7:C
+f:0
+9:"$undefined"
+b:"$undefined"
+e:"$undefined"
+6:"$undefined"

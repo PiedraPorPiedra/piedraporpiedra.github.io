@@ -1,0 +1,59 @@
+1:"$Sreact.fragment"
+2:I[71112,["/_next/static/chunks/2jkenc3bsu0hh.js","/_next/static/chunks/0_30jw-pl1iwu.js"],"Carta"]
+3:T645,«Fecha»
+
+A: Gobierno Municipal de Las Piedras
+
+De: «Nombre completo», residente de Las Piedras
+«Dirección postal» · «Correo electrónico» · «Teléfono»
+
+Asunto: Solicitud de acceso a información pública — Contrato 2024-000128
+
+Estimados señores:
+
+Al amparo de la Ley 141-2019, Ley de Transparencia y Procedimiento Expedito para el Acceso a la Información Pública, y del derecho constitucional de acceso a la información pública, solicito respetuosamente copia de los siguientes documentos relacionados con el contrato número 2024-000128, otorgado a BATISTA ROOFING, INC el 6 de febrero de 2024, por concepto de OFICINAS y por un valor de $25,900.00:
+
+1. el contrato completo, con todos sus anejos;
+2. todas sus enmiendas y la justificación escrita de cada una;
+3. el expediente de subasta o la justificación de la excepción, si la hubo;
+4. los pagos realizados hasta la fecha, con sus comprobantes;
+5. la evidencia de los trabajos realizados o los bienes entregados;
+
+Solicito los documentos en formato digital, si están disponibles, al correo electrónico indicado arriba.
+
+La Ley 141-2019 dispone que la solicitud se conteste dentro de diez (10) días laborables, prorrogables por otros diez mediante notificación escrita, y que toda denegatoria se haga por escrito y exponga sus fundamentos en derecho.
+
+Quedo a su disposición para aclarar cualquier punto.
+
+Cordialmente,
+
+«Nombre completo»
+
+———
+
+Quien firma esta carta la envía en su propio nombre como residente y no representa a ninguna organización ni al portal Piedra por Piedra, que solo facilitó el texto.8:X
+d:X
+d:C
+0:{"buildId":"hWAkrpc1qVr0ZTSZ_Tn28","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"space-y-6","children":[["$","header",null,{"className":"space-y-2","children":[["$","h1",null,{"className":"text-4xl","children":["Contrato ",["$","span",null,{"className":"font-mono","children":"2024-000128"}]]}],["$","p",null,{"children":["$","a",null,{"href":"/contratista/batista-roofing-inc/","children":"BATISTA ROOFING, INC"}]}],["$","p",null,{"className":"text-sm text-apagado","children":["CONSTRUCCIÓN Y REPARACIÓN DE ESTRUCTURAS"," · ","OFICINAS"]}]]}],["$","section",null,{"className":"space-y-2","children":[["$","h2",null,{"className":"text-2xl","children":"Monto"}],["$","p",null,{"className":"text-lg","children":["$","span",null,{"className":"font-mono tabular-nums","children":"$$25,900.00"}]}],["$","dl",null,{"className":"grid grid-cols-2 gap-3 text-sm","children":[["$","div",null,{"children":[["$","dt",null,{"className":"text-apagado","children":"Monto base"}],["$","dd",null,{"className":"font-mono tabular-nums","children":"$$25,900.00"}]]}],["$","div",null,{"children":[["$","dt",null,{"className":"text-apagado","children":"Fondo"}],["$","dd",null,{"children":"Federal"}]]}],["$","div",null,{"children":[["$","dt",null,{"className":"text-apagado","children":"Otorgado"}],["$","dd",null,{"children":"6 de febrero de 2024"}]]}],["$","div",null,{"children":[["$","dt",null,{"className":"text-apagado","children":"Vigente hasta"}],["$","dd",null,{"children":"2 de mayo de 2024"}]]}]]}]]}],false,["$","section",null,{"className":"space-y-2","children":[["$","h2",null,{"className":"text-2xl","children":"Obra"}],["$","p",null,{"className":"text-apagado","children":"El portal leyó el documento de este contrato y no menciona ningún número de PW, que es lo único que permite enlazarlo con una obra. Eso no quiere decir que no corresponda a ninguna."}],false]}],["$","$L2",null,{"asunto":{"titulo":"Contrato 2024-000128","parrafo":"el contrato número 2024-000128, otorgado a BATISTA ROOFING, INC el 6 de febrero de 2024, por concepto de OFICINAS y por un valor de $25,900.00","piezas":["el contrato completo, con todos sus anejos","todas sus enmiendas y la justificación escrita de cada una","el expediente de subasta o la justificación de la excepción, si la hubo","los pagos realizados hasta la fecha, con sus comprobantes","la evidencia de los trabajos realizados o los bienes entregados"]},"cuerpo":"$3"}],"$L4"]}],["$L5"],"$L6"]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":"$L9","isPartial":"$@a","staleTime":"$8","varyParams":null},{"rsc":"$Lb","isPartial":"$@c","staleTime":"$8","varyParams":"$d"},{"rsc":"$Le","isPartial":"$@f","staleTime":"$8","varyParams":"$d"}],"isUpgradeableISRFallback":false,"a":"$@10","rootVaryParams":null,"needsRuntimeRequest":"$@11"}
+12:I[75049,["/_next/static/chunks/2jkenc3bsu0hh.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+15:I[75049,["/_next/static/chunks/2jkenc3bsu0hh.js"],"ViewportBoundary"]
+16:I[75049,["/_next/static/chunks/2jkenc3bsu0hh.js"],"MetadataBoundary"]
+17:I[34035,["/_next/static/chunks/2jkenc3bsu0hh.js"],"IconMark"]
+18:I[36064,["/_next/static/chunks/2jkenc3bsu0hh.js"],"default"]
+19:I[81497,["/_next/static/chunks/2jkenc3bsu0hh.js"],"default"]
+4:["$","section",null,{"className":"text-sm","children":[["$","h2",null,{"className":"font-semibold","children":"Fuentes"}],["$","ul",null,{"className":"mt-1 space-y-1","children":[["$","li","0:https://consultacontratos.ocpr.gov.pr/contract/details?contractid=5473388",{"children":["$","a",null,{"href":"https://consultacontratos.ocpr.gov.pr/contract/details?contractid=5473388","rel":"noreferrer","children":"Registro de Contratos — 2024-000128"}]}]]}]]}]
+5:["$","script","script-0",{"src":"/_next/static/chunks/0_30jw-pl1iwu.js","async":true}]
+6:["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+9:["$","$1","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L16",null,{"children":["$","$13",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Contrato 2024-000128 · Piedra por Piedra"}],["$","meta","1",{"name":"description","content":"OFICINAS"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"alternate","type":"application/rss+xml","href":"https://piedraporpiedra.github.io/feed.xml","title":"Piedra por Piedra — Las Piedras"}],["$","link","4",{"rel":"alternate","type":"application/rss+xml","href":"https://piedraporpiedra.github.io/feed-region.xml","title":"Piedra por Piedra — la región"}],["$","link","5",{"rel":"icon","href":"/favicon.ico","sizes":"16x16 32x32"}],["$","link","6",{"rel":"icon","href":"/icono.svg","type":"image/svg+xml"}],["$","link","7",{"rel":"apple-touch-icon","href":"/icono-180.png","sizes":"180x180"}],["$","$L17","8",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+b:["$","$1","c",{"children":[null,["$","$L18",null,{"parallelRouterKey":"children","template":["$","$L19",null,{}]}]]}]
+e:["$","$1","c",{"children":[null,["$","$L18",null,{"parallelRouterKey":"children","template":["$","$L19",null,{}]}]]}]
+11:true
+14:null
+8:300
+8:C
+10:0
+a:"$undefined"
+c:"$undefined"
+f:"$undefined"
+7:"$undefined"
